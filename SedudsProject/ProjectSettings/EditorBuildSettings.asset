@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: e0affea6e69692b478a00e90e863f09a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Load.unity
+    guid: 336bde1bcbb3de542bf97d8695a9b12c
+  - enabled: 1
+    path: Assets/Scenes/New.unity
+    guid: 225dfa5d418bc2f4692caaba896699fa
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 15cdaf92ebd80e44aab979c290e24bf2
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: f551503f32d1ce34e8c5a7834cb01f31
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/DE1.unity
+    guid: fa935c9c5a247924182e61b5f4833359
+  - enabled: 1
+    path: Assets/Scenes/DE2.unity
+    guid: 951348c20f942f64dbd2b58433f603f1
+  - enabled: 1
+    path: Assets/Scenes/DETemoc1.unity
+    guid: 810d08865ff14d04c979199224276659
+  - enabled: 1
+    path: Assets/Scenes/DETemoc2.unity
+    guid: f4d150adf38d7cf40bb775110ba842af
+  - enabled: 1
+    path: Assets/Scenes/DW1.unity
+    guid: 1dc2e152b55f5994f989c10419950975
+  - enabled: 1
+    path: Assets/Scenes/DW2.unity
+    guid: 53d151fcc186b134eb349d187225fcc8
+  - enabled: 1
+    path: Assets/Scenes/DWTemoc1.unity
+    guid: 5cdd1373a5840a648821efee0993fc50
+  - enabled: 1
+    path: Assets/Scenes/DWTemoc2.unity
+    guid: 500a822b27b92824ba4e6800771b363b
+  - enabled: 1
+    path: Assets/Scenes/DS1.unity
+    guid: e2103c231b57edb4484e770c8a674822
+  - enabled: 1
+    path: Assets/Scenes/DS2.unity
+    guid: 3d9b84f534f189847b7689d64ecd9788
+  - enabled: 1
+    path: Assets/Scenes/DSTemoc1.unity
+    guid: 82c1a577bd403ed49ac176046df171ad
+  - enabled: 1
+    path: Assets/Scenes/DSTemoc2.unity
+    guid: 38ca20d85e451df47b030ec3608266d9
+  - enabled: 1
+    path: Assets/Scenes/DSp1.unity
+    guid: 42e544506b6a5194dae879591caf98eb
+  - enabled: 1
+    path: Assets/Scenes/DSp2.unity
+    guid: f2fa87b41c4a5d14bb656ca0e059964d
+  - enabled: 1
+    path: Assets/Scenes/DSpTemoc1.unity
+    guid: ac8b0c66624aa9c4cabeb05612c28c04
+  - enabled: 1
+    path: Assets/Scenes/DSpTemoc2.unity
+    guid: 78a31f71ec2c28445ac927d9c7c16873
+  - enabled: 1
+    path: Assets/Scenes/DTemoc.unity
+    guid: 5aa29b74e8fb92d4da47c8f3bc22232e
+  - enabled: 1
+    path: Assets/Scenes/World1.unity
+    guid: a0505455c64df5841996ef94fcb74dd3
+  - enabled: 1
+    path: Assets/Scenes/World2old.unity
+    guid: ab6980e0fd648854ba956a8db6ad2ee5
+  - enabled: 1
+    path: Assets/Scenes/World3old.unity
+    guid: df5325237facf2142af202938786fedc
+  - enabled: 1
+    path: Assets/Scenes/World4old.unity
+    guid: c53ab14162d129c419f88acd58abc804
+  - enabled: 1
+    path: Assets/Scenes/WorldFinal.unity
+    guid: 4082785b0ff30c34d891cd0981eebbf4
+  - enabled: 1
+    path: Assets/Scenes/DomeEarth.unity
+    guid: 905e75c2dd9b89640b07711db4a61e3f
+  - enabled: 1
+    path: Assets/Scenes/DomeSnow.unity
+    guid: 2a5018686c29fd34fa39c85a03a7600d
+  - enabled: 1
+    path: Assets/Scenes/DomeSpace.unity
+    guid: 57f947f1f4adb8f428f721745cc198b4
+  - enabled: 1
+    path: Assets/Scenes/DomeWater.unity
+    guid: 315d73f5a83191e4c845cc2294a5a158
+  - enabled: 1
+    path: Assets/Scenes/BattleScene.unity
+    guid: f5f09d366b93540488f98ebccfad0696
+  - enabled: 1
+    path: Assets/Scenes/World2.unity
+    guid: 9008a6b60107a8c45b522942020bf271
+  - enabled: 1
+    path: Assets/Scenes/World3.unity
+    guid: 684aa7c5786007943a4901d67a41c0d9
+  - enabled: 1
+    path: Assets/Scenes/World4.unity
+    guid: b38328bbf4e04c144a1cbfa24acfbf5b
+  m_configObjects: {}

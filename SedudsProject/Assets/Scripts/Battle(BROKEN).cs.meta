@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 549d9c10446c81d4791ab058fe54afb1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sedud: {fileID: 8314475959512111982, guid: d0466d5b733dcbb43954dc3727c9c9c9, type: 3}
+  - healthBar: {instanceID: 0}
+  - healthBarEnemy: {instanceID: 0}
+  - playerSedud: {instanceID: 0}
+  - AttackButton: {instanceID: 0}
+  - SAttackButton: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  - victory: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
